@@ -1,2 +1,3 @@
 Boujour tous le monde !
 J'utilise git !
+git est un logiciel de gestion de versions décentralisé.
